@@ -37,5 +37,5 @@ Connect with us 🔗💕:
 [![Github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black')](https://github.com/PRout1911)
 
 [@Sanskruti Joshi]()
-[![Github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black')](https://github.com/githubuser1313)
+[![Github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black')]
 
