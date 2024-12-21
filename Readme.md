@@ -1,8 +1,10 @@
 🖥️Technologies used in the project🖥️:
 
 Operating System 💻:
-![Windows]
-![Linux]
+![Windows](https://img.shields.io/badge/Windows-%20%23E65100
+  )
+![Linux](https://img.shields.io/badge/Linux-%20%23E65100
+  )
 
 Front End 📱:
 
@@ -25,6 +27,8 @@ BackEnd 🌐:
 Database 🗃️:
 
 ![MySQL](https://img.shields.io/badge/MySQL-%20%23B730E1?style=for-the-badge
+ )
+![MariaDB](https://img.shields.io/badge/MariaDB-%20%23B730E1?style=for-the-badge
  )
 
 Connect with us 🔗💕:
